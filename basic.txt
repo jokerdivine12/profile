@@ -1,14 +1,26 @@
 https://crop-circle.imageonline.co/
 
 lorium ipsum
+How to deploy code in Github:
+    Go to github.com
+        -> sign-up
+        -> create repository
+                -> Repository name
+                -> Public
+                -> Tick: Add a README file
+        -> click on Add file
+                -> upload files
+        -> Drag and drop your files and folders
+        -> Give some comment
+        -> commit changes
+How to deploy website:
+    ->  Click on setting
+    ->  Click on pages at left side
+    ->  Select source->main branch
+        -> select /root
+        -> save it.
+ Your site is published at https://jokerdivine12.github.io/profile/
 
-Go to github.com
-    -> sign-up
-    -> create repository
-            -> Repository name
-            -> Public
-            -> Tick: Add a README file
-    -> click on Add file
-            -> upload files
-    
-    
+ https://github.com/jokerdivine12/profile.git
+
+ 
