@@ -1,0 +1,14 @@
+https://crop-circle.imageonline.co/
+
+lorium ipsum
+
+Go to github.com
+    -> sign-up
+    -> create repository
+            -> Repository name
+            -> Public
+            -> Tick: Add a README file
+    -> click on Add file
+            -> upload files
+    
+    
